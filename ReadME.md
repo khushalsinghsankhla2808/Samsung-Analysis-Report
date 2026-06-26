@@ -209,7 +209,7 @@ Samsung-Supply-Chain-Dashboard/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/khushalsinghsankhla2808/Samsung-Supply-Chain-Dashboard.git
+   git clone [https://github.com/khushalsinghsankhla2808/Samsung-Supply-Chain-Dashboard.git](https://github.com/khushalsinghsankhla2808/Samsung-Analysis-Report)
    ```
 
 2. **Open the Dataset**
